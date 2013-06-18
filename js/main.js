@@ -3,7 +3,7 @@ var Todo = Backbone.Model.extend({
     // Default todo attribute values
     defaults: {
         title: '',
-        completed? false
+        completed: false
     }
 });
 
